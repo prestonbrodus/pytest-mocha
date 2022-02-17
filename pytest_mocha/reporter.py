@@ -13,6 +13,7 @@ STATUS_ICONS = {
     'error': 'E',
     'xfailed': '✖',
     'xpassed': '✓',
+    'rerun': '↩',
 }
 COLORS = {
     'passed': Fore.GREEN,
@@ -21,6 +22,7 @@ COLORS = {
     'error': Fore.RED,
     'xfailed': Fore.YELLOW,
     'xpassed': Fore.YELLOW,
+    'rerun': Fore.YELLOW,
 }
 
 
